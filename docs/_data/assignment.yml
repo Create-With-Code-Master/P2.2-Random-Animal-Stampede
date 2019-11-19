@@ -1,19 +1,19 @@
 # Configuration that is shared between all of the pages in this assignment.
 #
 # Git stuff
-git-curr-branch:
-git-prev-branch:
+git-curr-branch: lesson-3
+git-prev-branch: lesson-2
 # Link to an external lesson (e.g., a lesson on Code.org or TestOut).
 lesson:
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
 outcome:
 # Link to lesson slides, displayed on Resources tab if not empty.
-slides:
+slides: https://docs.google.com/presentation/d/1mxdWMcVmjP0cRbYAR-3EkEpMRwIxJ4n_fbSsnmE8I4I/edit?usp=sharing
 # Name and URL of repository holding the starter code for this assignment.
 starter-code-org:
-starter-code-repo:
+starter-code-repo: Prototype-2
 starter-code-url:
 # Link to Google Doc template for assignment submission. Replace the end of the link "edit?..." with "copy"
 # to force creating a copy when the link is clicked.
-template:
+template: https://docs.google.com/document/d/1GDZdEprHKlL-u4Detvv50tNanqv0LD0GiuNZjNdxbss/copy
