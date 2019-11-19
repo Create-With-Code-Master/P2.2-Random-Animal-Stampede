@@ -4,10 +4,13 @@ layout: tabbed-assignment
 
 # Learning Targets
 
-I can:
+By the end of this lesson, you will be able to:
 
-* 
-* 
+* Create an empty object with a script attached 
+* Use arrays to create an accessible list of objects or values
+* Use integer variables to determine an array index
+* Randomly generate values with Random.Range in order to randomize objects in arrays and spawn positions
+* Change the camera’s perspective to better suit your game
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
