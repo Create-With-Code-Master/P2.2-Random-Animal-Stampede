@@ -7,7 +7,7 @@ git-prev-branch: lesson-2
 lesson:
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
-outcome:
+outcome: When the user presses the S key, a randomly selected animal will spawn at a random position near the top of the screen and begin walking towards the player.
 # Link to lesson slides, displayed on Resources tab if not empty.
 slides: https://docs.google.com/presentation/d/1mxdWMcVmjP0cRbYAR-3EkEpMRwIxJ4n_fbSsnmE8I4I/edit?usp=sharing
 # Name and URL of repository holding the starter code for this assignment.
