@@ -4,8 +4,9 @@ layout: tabbed-assignment
 
 # Learning Targets
 
-I can:
+By the end of this lesson, you will be able to:
 
+* 
 * 
 * 
 
